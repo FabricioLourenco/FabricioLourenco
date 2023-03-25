@@ -1,1 +1,1 @@
-Olá esse é o primeiro projeto do meu portfólio.
+Olá esse é o primeiro projeto do meu portfólio, e nele gostaria de compartilhar minhas experiências e habilidade dentro da área da tecnologia.
