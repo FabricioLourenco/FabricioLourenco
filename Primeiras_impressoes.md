@@ -1,1 +1,0 @@
-Sou graduando em Analise e Desenvolvimento de Sistemas, tenho conhecimento básico em git/github,  HTML5, CSS3, linguagens de programação como JavaScript, C/C++ e C#.
